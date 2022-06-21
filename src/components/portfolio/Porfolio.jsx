@@ -48,8 +48,8 @@ const Porfolio = () => {
       id: 5,
       image: IMG5,
       title: 'My Portfolio',
-      github: 'https://github.com',
-      demo: 'https://github.com'
+      github: 'https://github.com/tainguy22112000/Portfolio',
+      demo: 'https://github.com/tainguy22112000/Portfolio'
     },
 
   ];
